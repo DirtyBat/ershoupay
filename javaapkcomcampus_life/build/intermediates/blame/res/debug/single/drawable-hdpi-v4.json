@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\exploded-aar\\ershou\\library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\exploded-aar\\ershou\\library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sub_img.jpg",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\src\\main\\res\\drawable-hdpi\\sub_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\exploded-aar\\ershou\\library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_1.jpg",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\src\\main\\res\\drawable-hdpi\\welcome_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\exploded-aar\\ershou\\library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\layout_back.jpg",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\src\\main\\res\\drawable-hdpi\\layout_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_4.jpg",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\src\\main\\res\\drawable-hdpi\\welcome_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_2.jpg",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\src\\main\\res\\drawable-hdpi\\welcome_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\exploded-aar\\ershou\\library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\exploded-aar\\ershou\\library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\addpic.jpg",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ershou\\javaapkcomcampus_life\\src\\main\\res\\drawable-hdpi\\addpic.jpg"
+    }
+]

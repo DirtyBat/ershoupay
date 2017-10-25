@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\ershou\javaapkcomcampus_life\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_64baffa06789e96474c56f4dc8bb5a77c127b04f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\AndroidStudioProjects\ershou\javaapkcomcampus_life\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bcfdc334da646d88bb944d82eec967e74ceb4f">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\ershou\javaapkcomcampus_life\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_73ede31eae240f801ef660247414e181245f5292\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\AndroidStudioProjects\ershou\javaapkcomcampus_life\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\ershou\javaapkcomcampus_life\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_5ba36bad12891b8f502dea14960c47b8e9cb558b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\AndroidStudioProjects\ershou\javaapkcomcampus_life\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8364f0eccbc2fe92f54f8f57b9112298a8e01af4">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\ershou\javaapkcomcampus_life\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7dd0276ffc00d190d5b7f3b67398b0f8d78b581c\classes.dex" />
+    </item>
+
+</items>
